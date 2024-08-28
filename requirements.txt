@@ -1,0 +1,7 @@
+torch
+scikit-learn
+pandas
+gradio
+PyPDF2
+requests
+python-dotenv
